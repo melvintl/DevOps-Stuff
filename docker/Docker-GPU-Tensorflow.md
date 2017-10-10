@@ -17,13 +17,7 @@ This script can be setup as start up script/ User data in AWS
 ```
 wget -O - -q 'https://gist.githubusercontent.com/dte/8954e405590a360614dcc6acdb7baa74/raw/d1b5a01ed0b9252654016d2a9a435dc8b4c045e7/install-CUDA-docker-nvidia-docker.sh' | sudo bash
 ```
-
-Once the script is installed restart the machine 
-
-```
-sudo restart -r now
-
-```
+restart the machine if required
 
 
 ## Step 3: Run Tensorflow Docker image with GPU support
