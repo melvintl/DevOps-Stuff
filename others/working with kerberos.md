@@ -1,7 +1,7 @@
 # Useful commands when working with kerberos
 
 
-##Create a key tab file 
+## Create a key tab file 
 On kdc run 
 
 ```
